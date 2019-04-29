@@ -1,0 +1,300 @@
+    1  sudo apt-get upgrade
+    2  sudo apt-get install vim
+    3  clear
+    4  sudo apt-get install curl
+    5  pkg install nodecd /usr/ports/www/node && make install
+    6  cd /usr/ports/www/node && make install
+    7  pwd
+    8  pkg install node
+    9  clear
+   10  octave
+   11  sudo apt install octave
+   12  sudo apt-get install octave
+   13  clear
+   14  sudo apt update
+   15  sudo apt-install octave
+   16  sudo apt-get install octave
+   17  octave
+   18  clear
+   19  cd
+   20  curl -sL https://deb.nodesource.com/setup 10.x | sudo -E bash -
+   21  curl -sL https://deb.nodesource.com/setup 8.x | sudo -E bash -
+   22  curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+   23  sudo apt-get install -y nodejs
+   24  node -v
+   25  npm -v
+   26  cd
+   27  cd Documents/
+   28  mkdir myNodeDoc
+   29  cd myNodeDoc/
+   30  vim first.js
+   31  node first.js 
+   32  cd
+   33  npm -v
+   34  npm config set prefix '-/npm'
+   35  ls
+   36  mkdir npm
+   37  ls
+   38  clear
+   39  ls -la
+   40  vim .bashrc 
+   41  . ~/.bashrc
+   42  npm install -g bower
+   43  echo $PATH
+   44  pwd
+   45  ls
+   46  cd Documents/
+   47  vim myfile.js
+   48  cd
+   49  sudo apt install vim
+   50  sudo apt-get update
+   51  sudo apt install vim
+   52  sudo apt-get update --fix-missing
+   53  sudo apt-get update
+   54  sudo apt-get update --fix-missing
+   55  sudo apt-get update
+   56  sudo apt update
+   57  sudo apt install chromium-browser
+   58  sudo apt update
+   59  apt list --upgradedable
+   60  apt list --upgradable
+   61  sudo apt install chromium-browser
+   62  sudo apt install vc-code
+   63  apt-get update
+   64  E: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   65  E: Unable to lock directory /var/lib/apt/lists/
+   66  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   67  E: Unable to lock directory /var/lib/apt/lists/
+   68  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   69  E: Unable to lock directory /var/lib/apt/lists/
+   70  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   71  E: Unable to lock directory /var/lib/apt/lists/
+   72  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   73  E: Unable to lock directory /var/lib/apt/lists/
+   74  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   75  E: Unable to lock directory /var/lib/apt/lists/
+   76  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   77  E: Unable to lock directory /var/lib/apt/lists/
+   78  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   79  E: Unable to lock directory /var/lib/apt/lists/
+   80  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   81  E: Unable to lock directory /var/lib/apt/lists/
+   82  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   83  E: Unable to lock directory /var/lib/apt/lists/
+   84  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   85  E: Unable to lock directory /var/lib/apt/lists/
+   86  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   87  E: Unable to lock directory /var/lib/apt/lists/
+   88  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   89  E: Unable to lock directory /var/lib/apt/lists/
+   90  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   91  E: Unable to lock directory /var/lib/apt/lists/
+   92  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   93  E: Unable to lock directory /var/lib/apt/lists/
+   94  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   95  E: Unable to lock directory /var/lib/apt/lists/
+   96  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   97  E: Unable to lock directory /var/lib/apt/lists/
+   98  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+   99  E: Unable to lock directory /var/lib/apt/lists/
+  100  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  101  E: Unable to lock directory /var/lib/apt/lists/
+  102  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  103  E: Unable to lock directory /var/lib/apt/lists/
+  104  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  105  E: Unable to lock directory /var/lib/apt/lists/
+  106  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  107  E: Unable to lock directory /var/lib/apt/lists/
+  108  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  109  E: Unable to lock directory /var/lib/apt/lists/
+  110  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  111  E: Unable to lock directory /var/lib/apt/lists/
+  112  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  113  E: Unable to lock directory /var/lib/apt/lists/
+  114  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  115  E: Unable to lock directory /var/lib/apt/lists/
+  116  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  117  E: Unable to lock directory /var/lib/apt/lists/
+  118  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  119  E: Unable to lock directory /var/lib/apt/lists/
+  120  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  121  E: Unable to lock directory /var/lib/apt/lists/
+  122  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  123  E: Unable to lock directory /var/lib/apt/lists/
+  124  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - RemoE: Could not open lock file /var/lib/apt/lists/lock - open (13: Permission denied)
+  125  E: Unable to lock directory /var/lib/apt/lists/
+  126  W: Problem unlinking the file /var/cache/apt/pkgcache.bin - Remo
+  127  sudo apt clear
+  128  sudo apt-get install chromium-browser
+  129  sudo apt-get install chromium-browser
+  130  sudo get-apt install idman
+  131  sudo apt install idman
+  132  sudo apt instaii notepad++;
+  133  sudo apt-get install git
+  134  sudo apt update
+  135  sudo apt upgrade
+  136  cd Desktop
+  137  ls
+  138  rmdir myProject
+  139  ls
+  140  clear
+  141  cd Desktop
+  142  clear
+  143  cd Desktop
+  144  rmdir
+  145  clear
+  146  cd Desktop
+  147  ls
+  148  rmdir myProject
+  149  ls
+  150  clear
+  151  cd Desktop
+  152  mkdir myProject
+  153  cd myProject
+  154  cd Desktop
+  155  mkdir myProject
+  156  clear
+  157  ls
+  158  cd Desktop
+  159  mkdir myProject
+  160  cd Desktop
+  161  create myProject
+  162  cd Desktop
+  163  cd myPrpject
+  164  ls
+  165  rmdir myProject
+  166  ls
+  167  cd myProject
+  168  rmdir myProject
+  169  node oop.js
+  170  git v
+  171  git --v
+  172  git --versin
+  173  git --version
+  174  mkdir git-basic-exercise
+  175  clear
+  176  mkdir git-basic-exercises
+  177  cd git-basic-exercises
+  178  ls -a
+  179  git init
+  180  ls -a
+  181  git status
+  182  touch README.md
+  183  ls -a
+  184  git status
+  185  git log
+  186  git add
+  187  git add .
+  188  git status
+  189  git rm --cached <file>...
+  190  git status
+  191  git rm --cached <README.md>...
+  192  git status
+  193  git commit -m "initial commit"
+  194  git add 
+  195  git status
+  196  git add
+  197  git add README.md
+  198  git commit -m "initial commit"
+  199  git status
+  200  git add README.md
+  201  git commit -m "initial commit"
+  202  mkdir git-basic-exercises
+  203  cd git-basic-exercises
+  204  ls -a
+  205  git status
+  206  git init
+  207  git status
+  208  touch README.md
+  209  ls -a
+  210  git log
+  211  git add README.md
+  212  git status
+  213  git rm --cached README.md
+  214  git status
+  215  git commit -m "initial commit"
+  216  git status
+  217  git add README.md
+  218  git commit -m "initial commit"
+  219  git checkout README.md
+  220  git status
+  221  git rm --cached "README.md"
+  222  git status
+  223  git add README.md
+  224  git status
+  225  git commit -m "initial commit"
+  226  git config --global user.name "ThembiShabalala"
+  227  git config --global user.email "thembi.shabalala@umuzi.org"
+  228  mkdir git-basic-exercises
+  229  cd git-basic-exercises
+  230  ls -a
+  231  git init
+  232  ls -a
+  233  git status
+  234  touch README.md
+  235  ls -a
+  236  git status
+  237  git log
+  238  git add README.md
+  239  git status
+  240  git rm --cached README.md 
+  241  git status
+  242  git commit -m "initial commit"
+  243  git status
+  244  git add README.md
+  245  git commit -m "initial commit"
+  246  git log
+  247  nano README.md
+  248  cat README.md
+  249  git status
+  250  git stats
+  251  git status
+  252  git commit -m "second commit"
+  253  git add README.md
+  254  git commit -m "second commit"
+  255  cat README.md
+  256  nano README.md
+  257  git status
+  258  git add README.md
+  259  git commit -m "third commit"
+  260  git log
+  261  git checkout 54bb434887942b615853d0cb9d68c46bbb0ea76c
+  262  cat README.md
+  263  git checkout master
+  264  cat README.md
+  265  git branch
+  266  git branch milkshake-flavours
+  267  cd git-basic-exercises
+  268  git branch milkshake-flavours
+  269  git checkout
+  270  git checkout master
+  271  git branch
+  272  nano milkshakes.md
+  273  cat milkshakes.md 
+  274  git status
+  275  git add milkshakes.md 
+  276  git commit -m "added initial flavours"
+  277  git log
+  278  git rm milkshakes.md 
+  279  git checkout milkshake-flavours 
+  280  nano milkshakes.md
+  281  git add milkshakes.md 
+  282  git commit -m "added initial flavours"
+  283  git log
+  284  git status
+  285  git log
+  286  git checkout master
+  287  git b ranch
+  288  git branch
+  289  git branch history
+  290  git branch
+  291  git log
+  292  history > history.txt
+  293  git status
+  294  git add history.txt 
+  295  git commit -m "added history"
+  296  git log
+  297  git checkout
+  298  git checkout history
+  299  git log
+  300  history > history.txt
