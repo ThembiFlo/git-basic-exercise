@@ -290,3 +290,14 @@
   290  git branch
   291  git log
   292  history > history.txt
+<<<<<<< HEAD
+=======
+  293  git status
+  294  git add history.txt 
+  295  git commit -m "added history"
+  296  git log
+  297  git checkout
+  298  git checkout history
+  299  git log
+  300  history > history.txt
+>>>>>>> history
